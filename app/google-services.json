@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342172402182",
+    "firebase_url": "https://proyectotienda2-d8a62-default-rtdb.firebaseio.com",
+    "project_id": "proyectotienda2-d8a62",
+    "storage_bucket": "proyectotienda2-d8a62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342172402182:android:7d5416f069f856845af987",
+        "android_client_info": {
+          "package_name": "com.example.proyectotienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342172402182-vn51grrf91bbpch6k0he50t66gpnc1si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNjc-ef6QTZKD4KeTZHDmbOQftgSQoJCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342172402182-vn51grrf91bbpch6k0he50t66gpnc1si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

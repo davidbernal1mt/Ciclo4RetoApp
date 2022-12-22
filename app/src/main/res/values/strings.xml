@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProyectoTienda</string>
+
+    // strings para MainActivity
+    <string name="text_product1">Producto 1</string>
+    <string name="text_product2">Producto 2</string>
+    <string name="text_product3">Producto 3</string>
+    <string name="text_title">PRODUCTOS</string>
+    <string name="text_btn_product">INFO</string>
+
+    // strings para MainActivity2
+    <string name="text_btn_return">Regresar</string>
+
+    // strings para Principal
+    <string name="text_btn_welcome">Bienvenidos</string>
+
+    // strings para Form
+    <string name="text_btn_agregar">Agregar</string>
+    <string name="title_activity_maps">Maps</string>
+
+</resources>
